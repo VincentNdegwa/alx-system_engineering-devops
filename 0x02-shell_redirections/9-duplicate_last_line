@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cdw_content
+tail -n 1 iacta >> iacta

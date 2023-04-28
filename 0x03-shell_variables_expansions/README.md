@@ -1,1 +1,2 @@
-0x03-shell_variables_expansions
+# About Folder
+This folder contains BASH Scripts for making aliases, creating variables, BASH calculations, etc.
